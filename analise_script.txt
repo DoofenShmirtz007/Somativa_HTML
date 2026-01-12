@@ -1,0 +1,31 @@
+Análise do Script HTML (Resultado de Aprendizagem 2 - Pergunta 2)
+
+O código analisado apresenta a estrutura básica de um documento HTML5. Abaixo, a descrição detalhada de cada instrução:
+
+1.  `<!DOCTYPE html>`: Esta declaração informa ao navegador que o documento é um arquivo HTML5. Deve ser sempre a primeira linha do código.
+
+2.  `<html lang="pt-br">`: A tag `<html>` é o elemento raiz da página. O atributo `lang="pt-br"` define o idioma principal do documento como Português do Brasil, o que é importante para acessibilidade e motores de busca.
+
+3.  Vazio (linha em branco para organização).
+
+4.  `<head>`: Este elemento contém metadados sobre o documento, como configurações de caracteres, título da página, links para folhas de estilo, scripts, etc. O conteúdo dentro de `<head>` não é exibido diretamente na área visível da página.
+
+5.  `<meta charset="UTF-8">`: Esta meta tag define a codificação de caracteres do documento como UTF-8. Isso garante que caracteres especiais (como acentos e cedilhas) sejam exibidos corretamente em qualquer navegador.
+
+6.  `<title>Instituto de Transportes e Comunicações</title>`: Define o título da página, que é exibido na aba do navegador e nos resultados de pesquisa.
+
+7.  `</head>`: Fecha a seção de cabeçalho do documento.
+
+8.  Vazio.
+
+9.  `<body>`: O elemento `<body>` contém todo o conteúdo visível da página web, como textos, imagens, vídeos, etc.
+
+10. `<h1> SOMATIVA: Desenvolver páginas web em HTML </h1>`: A tag `<h1>` define o cabeçalho de nível 1, ou seja, o título principal da página. É o texto de maior destaque hierárquico.
+
+11. `<p>Resultado de Aprendizagem 2: Construir páginas com HTML</p>`: A tag `<p>` define um parágrafo de texto.
+
+12. `</body>`: Fecha o corpo do documento.
+
+13. Vazio.
+
+14. `</html>`: Fecha o elemento raiz HTML, indicando o fim do documento.
